@@ -1,8 +1,3 @@
-#include <iostream>
-#include <thread>
-#include <chrono>
-#include <ctime>
-#include <iomanip>
 
 void displayCurrentTime() {
     while (true) {
